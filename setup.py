@@ -112,4 +112,6 @@ setup(
     # enforced by pip, because doing so would allow rogue packages to
     # obsolete legitimate ones.
     obsoletes=["pybigquery"],
+
+    # temporary comment add to re-open PR
 )
